@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="src/assets/logo.png">
+  <img src="src/assets/gobarber.png">
 </h1>
 
 ## 📝 About
 
-An app for barber appointment and scheduling. ✂
+An app for barber appointment and scheduling ✂
 
 ----
 
